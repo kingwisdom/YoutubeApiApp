@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jA+vVBDu+zA4nOAKK6ol+1zztDw/SLkQyFrbfR+ffbqnMLCUZtpvtl48Mc1usE/+/ontnM9NM2LOtuXfdtZLmA==",
+  "success": true,
+  "projectFilePath": "C:\\PersonalXamarinApp\\YoutubeApiApp\\YoutubeApiApp\\YoutubeApiApp\\YoutubeApiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\dltoolkit.forms.controls.flowlistview\\2.0.11\\dltoolkit.forms.controls.flowlistview.2.0.11.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS TECH\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}

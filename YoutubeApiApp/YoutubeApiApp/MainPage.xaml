@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView" xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             x:Class="YoutubeApiApp.MainPage" NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Content>
+        <StackLayout Padding = "5,10">
+            <ActivityIndicator IsEnabled="{Binding IsBusy}"
+                           IsRunning="{Binding IsBusy}"
+                           IsVisible="{Binding IsBusy}"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"/>
+            <flv:FlowListView  FlowColumnCount="2" SeparatorVisibility="None" HasUnevenRows="true" 
+                           FlowItemsSource="{Binding Videos}" x:Name="generallistview" FlowItemTapped="generallistview_FlowItemTapped"  IsPullToRefreshEnabled="true">
+                <flv:FlowListView.FlowColumnTemplate>
+                    <DataTemplate>
+                        <Frame  Padding="7" Margin="5" CornerRadius="10">
+                            <StackLayout>
+                                <controls:CircleImage Source="{Binding DefaultThumbnailUrl}" HeightRequest="150" WidthRequest="150" Aspect="Fill"/>
+
+                                <Label Text="{Binding Title}" TextColor="#3498db" FontSize="15" />
+                                <Label Text="{Binding Description}" TextColor="#3498db" FontSize="15" />
+                                <Label Text="{Binding  PublishedAt, StringFormat='{0:dd/MM/yyyy}'}" TextColor="#0D47A1" FontSize="11"/>
+
+                            </StackLayout>
+                        </Frame>
+
+                    </DataTemplate>
+                </flv:FlowListView.FlowColumnTemplate>
+            </flv:FlowListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

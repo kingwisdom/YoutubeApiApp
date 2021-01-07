@@ -1,0 +1,14 @@
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\bin\Release\netstandard2.0\YoutubeApiApp.deps.json
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\bin\Release\netstandard2.0\YoutubeApiApp.dll
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\bin\Release\netstandard2.0\ref\YoutubeApiApp.dll
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\bin\Release\netstandard2.0\YoutubeApiApp.pdb
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\SingleView.xaml.g.cs
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\YoutubeApiApp.AssemblyInfoInputs.cache
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\YoutubeApiApp.AssemblyInfo.cs
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\YoutubeApiApp.csproj.CoreCompileInputs.cache
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\YoutubeApiApp.dll
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\ref\YoutubeApiApp.dll
+C:\PersonalXamarinApp\YoutubeApiApp\YoutubeApiApp\YoutubeApiApp\obj\Release\netstandard2.0\YoutubeApiApp.pdb

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeApiApp.Android", "YoutubeApiApp\YoutubeApiApp.Android\YoutubeApiApp.Android.csproj", "{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeApiApp", "YoutubeApiApp\YoutubeApiApp\YoutubeApiApp.csproj", "{DE802B73-4470-402B-B20B-A985EE40B9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC57A5C4-2B52-4FCE-9248-1DC2C7A8699E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE802B73-4470-402B-B20B-A985EE40B9B5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D378EE-3DA2-4E56-99D2-5745B0702D66}
+	EndGlobalSection
+EndGlobal
